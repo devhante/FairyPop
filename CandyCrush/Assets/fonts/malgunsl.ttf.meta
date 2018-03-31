@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: ade10bbb2d5e28549b70e9c0a674499a
+timeCreated: 1522495009
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Malgun Gothic
+  fontNames:
+  - Malgun Gothic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 16939e0f93bdf1a47964819d614d9e18, type: 3}
+  - {fileID: 12800000, guid: 4c277d4f1b9020f49abffa0c5dca19c4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
